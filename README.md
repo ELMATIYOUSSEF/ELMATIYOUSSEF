@@ -1,3 +1,6 @@
+
+
+<img src="https://github.com/ELMATIYOUSSEF/ELMATIYOUSSEF/blob/main/ELMATI%20YOUSSEF.png" alt="coverture of my demo"/>
 Développeur full stack  . passionné d’informatique, j’ai appris à coder dès mon plus jeune âge avec divers langages informatiques (Java, Javascript, PHP…) ayant travaillé sur plusieurs projets pour différents clients, Polyvalent, je maîtrise les différentes étapes techniques de la création d’un site ou d’une application web de la compréhension des besoins utilisateurs, au développement frontend et backend en passant par la maintenance.
 
 ### I make *pretty* things using:
