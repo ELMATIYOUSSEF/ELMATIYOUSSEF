@@ -38,7 +38,7 @@ Développeur full stack  . passionné d’informatique, j’ai appris à coder d
 
 - 👋 Hi, I’m @ELMATIYOUSSEF
 - 👀 I’m interested in computer programming web/mobile
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Laravel 9
 - 📫 How to reach me ysf.elmati@gmail.Com
 
 <!---
